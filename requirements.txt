@@ -1,0 +1,8 @@
+jupyterlab
+jupyter
+matplotlib
+numpy
+pandas
+epyt
+epyt-flow
+epyt-control
