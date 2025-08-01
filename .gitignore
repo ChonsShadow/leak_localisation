@@ -1,0 +1,53 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# IDEs and editors #
+####################
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Node.js #
+###########
+node_modules/
+
+# Python #
+##########
+__pycache__/
+*.pyc
+
+# Java #
+########
+*.war
+*.ear
+
+# Environment variables #
+.env
