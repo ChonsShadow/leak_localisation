@@ -7,3 +7,4 @@ epyt
 epyt-flow
 epyt-control
 scikit-learn
+tabulate
